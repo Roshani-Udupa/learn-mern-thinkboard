@@ -1,5 +1,5 @@
 <h1 align="center">📝 MERN Stack Note Taking App ✨</h1>
-A **minimal, clean, full-stack Note-Taking Application built with the MERN stack** (MongoDB, Express, React, Node.js) to help you **capture, edit, and manage notes efficiently**.
+A minimal, clean, full-stack Note-Taking Application built with the MERN stack (MongoDB, Express, React, Node.js) to help you capture, edit, and manage notes efficiently.
 
 ---
 ## Key Features
